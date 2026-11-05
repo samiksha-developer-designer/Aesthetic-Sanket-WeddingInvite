@@ -101,7 +101,7 @@ export const weddingData = {
 
 
   rsvp: {
-    phone: "918329886470",
+    phone: "918668416672",
     message:
       "Hello! I am delighted to confirm that I will be joining Sanket and Pranjali's wedding celebration!",
   },
