@@ -94,7 +94,7 @@ export default function CoupleSection() {
                   "
                 >
                   <img
-                    src="/images/groom.webp"
+                    src="/images/groom.png"
                     alt={groom.name}
                     width="600"
                     height="700"
@@ -169,7 +169,7 @@ export default function CoupleSection() {
                   "
                 >
                   <img
-                    src="/images/bride.webp"
+                    src="/images/bride.png"
                     alt={bride.name}
                     width="600"
                     height="700"

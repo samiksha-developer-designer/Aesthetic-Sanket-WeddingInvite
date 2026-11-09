@@ -2,13 +2,13 @@ export const weddingData = {
   bride: {
     name: "Pranjali",
     role: "The Bride",
-    image: "/images/bride.webp",
+    image: "./images/bride.png",
   },
 
   groom: {
     name: "Sanket",
     role: "The Groom",
-    image: "/images/groom.webp",
+    image: "./images/groom.png",
   },
 
   weddingDate: "2026-12-18T12:30:00",
@@ -32,7 +32,7 @@ export const weddingData = {
       displayDate: "16 December 2026",
       time: "03:00 PM onwards",
       venue: "Chandralok Creation, Datala Road, Chandrapur",
-      image: "/images/engagement.webp",
+      image: "/images/engagement.png",
     },
 
     {
@@ -43,7 +43,7 @@ export const weddingData = {
       displayDate: "16 December 2026",
       time: "07:00 PM onwards",
       venue: "Chandralok Creation, Datala Road, Chandrapur",
-      image: "/images/sangeet.webp",
+      image: "/images/sangeet.png",
     },
 
     {
@@ -54,7 +54,7 @@ export const weddingData = {
       displayDate: "17 December 2026",
       time: "2:00 PM",
       venue: "Our Residence: Trimurti Nagar, Haveli Garden Road, Chandrapur ",
-      image: "/images/haldi.webp",
+      image: "/images/haldi.png",
     },
 
     {
@@ -65,7 +65,7 @@ export const weddingData = {
       displayDate: "18 December 2026",
       time: "12:30 PM onwards",
       venue: "Chandralok Creation, Datala Road, Chandrapur",
-      image: "/images/wedding.webp",
+      image: "/images/wedding.png",
     },
 
     // {

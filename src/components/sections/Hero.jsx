@@ -305,7 +305,7 @@ export default function Hero() {
           "
         >
           <img
-            src="/images/couple-illustration.webp"
+            src="/images/couple-illustration.png"
             alt={`${groom.name} and ${bride.name}`}
             width="840"
             height="840"
